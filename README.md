@@ -25,6 +25,14 @@
 <a href="https://www.linkedin.com/in/emile-vargas-bordin-365424273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
 
+### Studying in this moment:
+![C](https://img.shields.io/badge/-C-DA70D6?style=for-the-badge&logo=C&labelColor=DA70D6)&nbsp;
+![C++](https://img.shields.io/badge/-C++-DA70D6?style=for-the-badge&logo=C++&labelColor=DA70D6&textColor=DA70D6)&nbsp;
+![HTML](https://img.shields.io/badge/-HMTL-DA70D6?style=for-the-badge&logo=HTMLs&labelColor=DA70D6&textColor=DA70D6)&nbsp;
+![DART](https://img.shields.io/badge/-DART-DA70D6?style=for-the-badge&logo=DART&labelColor=DA70D6&textColor=DA70D6)&nbsp;
+
+
+
 <div align="center">
 <br><p align="centre"><b>Total de Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{emivargxs}/count.svg" /></p> 
