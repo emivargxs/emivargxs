@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Emile+Vargas;I'm+21+years+old;I'm+from+Brazil;I+study+Engenharia+de+Computação;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emivargxs&bg_color=0d1117&color=D8BFD8&line=D8BFD8&point=DA70D6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=emivargxs&bg_color=0d1117&color=D8BFD8&line=D8BFD8&point=DA70D6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
