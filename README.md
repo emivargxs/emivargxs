@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DA70D6&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Emile+Vargas;I'm+21+years+old;I'm+from+Brazil;I+study+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Emile+Vargas;I'm+22+years+old;I'm+from+Brazil;I+study+Computer+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Emivargxs&bg_color=0d1117&color=DA70D6&line=DA70D6&point=D8BFD8&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -29,6 +29,7 @@
 ![C++](https://img.shields.io/badge/-C++-DA70D6?style=for-the-badge&logo=C++&labelColor=DA70D6&textColor=DA70D6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HMTL-DA70D6?style=for-the-badge&logo=HTMLs&labelColor=DA70D6&textColor=DA70D6)&nbsp;
 ![DART](https://img.shields.io/badge/-DART-DA70D6?style=for-the-badge&logo=DART&labelColor=DA70D6&textColor=DA70D6)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-DA70D6?style=for-the-badge&logo=JAVA&labelColor=DA70D6&textColor=DA70D6)&nbsp;
 
 
 
