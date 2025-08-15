@@ -19,12 +19,6 @@
   <a href="https://www.linkedin.com/in/EmileVargasBordin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EmileVargasBordin-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/emivargxs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-emivargxs-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:emile.bordin@edu.pucrs.br">
-    <img src="https://img.shields.io/badge/Email-emile.bordin%40edu.pucrs.br-blue?style=for-the-badge&logo=microsoft-outlook" />
-  </a>
 </p>
 
 ---
