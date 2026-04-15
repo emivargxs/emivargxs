@@ -1,58 +1,65 @@
-<!-- Cabeçalho sem animação -->
+<!-- Cabeçalho -->
 <h1 align="center">
-  Olá, me chamo <span style="color:#ff4d6d;">Emile Vargas</span>!
+  Emile Vargas Bordin
 </h1>
 
-## 👩‍💻 Sobre mim
-💻 Tenho **22 anos** e sou de **Porto Alegre, RS**  
-🎓 Estudante de **Engenharia de Software** na **PUCRS** (3º semestre)  
-🎯 Apaixonada por **tecnologia e programação**  
-🚀 Sempre em busca de **novos desafios** para aprender e crescer  
-🌱 Aprendendo continuamente **novas ferramentas e tecnologias**  
-
-✉ **E-mail para contato:** [emile.bordin@edu.pucrs.br](mailto:emile.bordin@edu.pucrs.br)  
+<p align="center">
+  Estudante de Engenharia de Software | Tecnologia, Dados e Desenvolvimento
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 👋 Sobre mim
+
+Sou estudante de Engenharia de Software na PUCRS, atualmente no 4º semestre.
+
+Tenho interesse em desenvolvimento de software, dados e projetos de tecnologia, buscando sempre evoluir na prática e entender como as soluções funcionam no mundo real.
+
+Hoje atuo com projetos de TI em ambiente corporativo, enquanto continuo desenvolvendo minha base técnica através de estudos e projetos acadêmicos.
+
+---
+
+## 🧠 O que venho desenvolvendo
+
+- Lógica de programação e resolução de problemas  
+- Programação orientada a objetos  
+- Desenvolvimento de aplicações (front-end e back-end)  
+- Modelagem e uso de bancos de dados  
+- Análise e visualização de dados  
+- Trabalho em equipe com metodologias ágeis  
+
+---
+
+## 💻 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/SQL-0074C1?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb" />
+</p>
+
+---
+
+## 🚀 Projetos
+
+- 📊 **Dashboard de Análise de Crimes no Brasil**  
+  Visualização de dados com Power BI para geração de insights  
+
+- 🏋️‍♂️ **Sistema de Academia em Java**  
+  Aplicação orientada a objetos com foco em organização e lógica  
+
+---
+
+## 🌐 Onde me encontrar
+
 <p align="center">
   <a href="https://www.linkedin.com/in/EmileVargasBordin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EmileVargasBordin-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
----
-
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
----
-
-## 🚀 Projetos
-- 📊 [**Dashboard Power BI - Análise de Crimes no Brasil**](https://github.com/emivargxs/projeto-powerbi-crimes-brasil)  
-- 🏋️‍♂️ [**Sistema de Academia em Java**](https://github.com/emivargxs/Projeto-Final---POO)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emivargxs&show_icons=true&theme=radical&count_private=true" height="165px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emivargxs&theme=radical&hide_border=false" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emivargxs&theme=radical&hide_border=false&layout=compact" height="165px"/>
-</p>
-
----
-
-## 📈 Visitantes
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=emivargxs&color=ff4d6d&style=for-the-badge" />
-</p>
+📩 emile.bordin@edu.pucrs.br
